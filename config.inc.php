@@ -3,7 +3,7 @@
  * This is needed for cookie based authentication to encrypt password in
  * cookie
  */
-$cfg['Servers'][$i]['Host']="127.0.0.1:3308"; /* YOU SHOULD CHANGE THIS FOR A MORE SECURE COOKIE AUTH! */
+$cfg['Servers'][$i]['Host']="https://phpmyadmin2.herokuapp.com/"; /* YOU SHOULD CHANGE THIS FOR A MORE SECURE COOKIE AUTH! */
 
 /*
  * Servers configuration
